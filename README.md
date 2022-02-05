@@ -5,7 +5,7 @@ Android app to change text color on button click
 
 ### App Walk-though
 
-![](https://github.com/neha277/AndroidL/blob/main/giff.gif | width =200)
+<img src="https://github.com/neha277/AndroidL/blob/main/giff.gif" width="100" height="100">
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
